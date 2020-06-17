@@ -1,3 +1,4 @@
 *.log
 /dir/
-ststic/dir
+static/dir
+sdf
